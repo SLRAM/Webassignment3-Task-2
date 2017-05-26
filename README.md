@@ -1,2 +1,1 @@
-# Webassignment3-Task-2
-Making my own repository
+I am learning how to use git at Lambda School's [online code bottcamp](https://lambdaschool.com/mini-bootcamp)
